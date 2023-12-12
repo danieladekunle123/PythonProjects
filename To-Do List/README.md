@@ -1,0 +1,3 @@
+The Daniel's TO-DO List Application, it is a simple yet effective task management tool designed to help users organize and keep track of their daily tasks. Developed using Python and the customtkinter library, the application offers a user-friendly interface on a fixed-size window, enhancing usability and focus.
+
+The Daniel's TO-DO List Application is ideal for individuals seeking a straightforward, no-nonsense tool for daily task management. It's particularly suitable for users who prefer a desktop application over mobile or web-based task managers.
