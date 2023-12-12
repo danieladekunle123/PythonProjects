@@ -6,6 +6,7 @@ from tkinter import messagebox
 app = customtkinter.CTk()
 app.title('The Ultimate Unit Converter') # Set the title of the window
 app.geometry('500x500') # Set the size of the window
+app.resizable(False, False)  # Prevent resizing of the window
 app.config(bg='#454545') # Set the background color of the window
 
 # Define font styles for different text elements
